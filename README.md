@@ -31,8 +31,6 @@ En el mismo Tablero se cuenta con un menu de navegacion, para facilitar el acces
 Todo en el mismo lugar, para presentar la información.
 
 
+Enlace de descarga Caso practico:
 
-
-
-
-Se muestra la cantidad de faltas y retardos de los empleados, de acuerdo a su fuente de reclutamiento. Indeed es la fuente de reclutamiento de los empleados con mas faltas y mas retardo 87 registros respectivamente.
+https://github.com/DianaMalta/POWER-BI
