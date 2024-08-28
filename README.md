@@ -13,5 +13,26 @@ clave son:
 ● Country/Region y Estado - País y Estado de venta.
 ● Segment - Segmento del cliente.
 
-## 
-Se 
+## Resultado del Análisis
+Se visualizan 3 graficos en el dashboard
+El primero se muestra informacion de la cantidad de ordenes de ventas generadas por segmente, dando como resultado elsegmento con mayor # de oredenes de ventas es:Consumer.
+![image](https://github.com/user-attachments/assets/6122c1fe-5557-4ddf-b8c5-e73182ff0fec)
+
+El segundo gráfico representa el producto mas vendido.
+![image](https://github.com/user-attachments/assets/cc2afe25-ac56-4088-ba3a-da5bdfe6b69e)
+Grafico:
+![image](https://github.com/user-attachments/assets/0111915e-60a6-49b5-a9c1-90724f26da11)
+
+El tercer grafico representa 3 valores, el importe de ventas por segmento a una fecha determinada, se puede ver por año, mes, semana o dia, asi como diferencia por color cada segmento.
+![image](https://github.com/user-attachments/assets/ee77fa78-6c96-4c91-b1ea-c3baa20c4c1d)
+
+En el mismo Tablero se cuenta con un menu de navegacion, para facilitar el acceso a los datos, este menu nos da solo dos opciones, ver informacion del detalle de los tableros, y regresar a nuestro menu principal.
+
+Todo en el mismo lugar, para presentar la información.
+
+
+
+
+
+
+Se muestra la cantidad de faltas y retardos de los empleados, de acuerdo a su fuente de reclutamiento. Indeed es la fuente de reclutamiento de los empleados con mas faltas y mas retardo 87 registros respectivamente.
